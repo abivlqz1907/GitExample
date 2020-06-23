@@ -17,6 +17,10 @@ struct ContentView: View {
         Text("Esto es parte de una branch dek repo ")
        
     }
+    var github: some View {
+        Text("Estoy subiendo un push a github ")
+       
+    }
 }
 //hola que tal
 struct ContentView_Previews: PreviewProvider {
