@@ -11,6 +11,11 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Text("Este es un proyecto de ejemplo para ver el funcionamiento de un repositorio git")
+       
+    }
+    var date: some View {
+        Text("Esto es parte de una branch dek repo ")
+       
     }
 }
 //hola que tal
